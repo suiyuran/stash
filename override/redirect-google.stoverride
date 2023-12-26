@@ -1,0 +1,9 @@
+name: 重定向 Google
+desc: 重定向 g|google.cn 到 google.com
+
+http:
+  mitm:
+    - g.cn
+    - "*.google.cn"
+  url-rewrite:
+    - ^https?:\/\/(www\.)?(g|google)\.cn https://www.google.com 302

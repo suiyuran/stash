@@ -1,0 +1,8 @@
+name: 修复花火阅读
+desc: 修复花火阅读字体下载和书籍过滤
+
+http:
+  mitm:
+    - gentleflow.coding.net
+  url-rewrite:
+    - ^https:\/\/gentleflow\.coding\.net https://raw.githubusercontent.com/suiyuran/stash/main/other/gentleflow.coding.net 302
