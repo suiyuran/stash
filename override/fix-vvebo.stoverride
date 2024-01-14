@@ -1,5 +1,7 @@
 name: 修复 VVebo
 desc: 修复 VVebo 用户时间线和粉丝列表
+icon: https://raw.githubusercontent.com/suiyuran/stash/main/icons/vvebo.png
+category: 应用
 
 http:
   mitm:

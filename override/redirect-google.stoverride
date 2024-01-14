@@ -1,5 +1,7 @@
 name: 重定向 Google
 desc: 重定向 g|google.cn 到 google.com
+icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google_Search.png
+category: 网站
 
 http:
   mitm:
