@@ -1,1 +1,2 @@
 .tzfile.com
+.mangafuna.xyz
