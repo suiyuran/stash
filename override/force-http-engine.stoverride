@@ -1,0 +1,8 @@
+name: 强制使用 HTTP 引擎
+desc: 强制使用 HTTP 引擎处理 TCP 连接
+icon: https://raw.githubusercontent.com/suiyuran/stash/main/icons/stash.png
+category: 配置
+
+http:
+  force-http-engine:
+    - "*:80"
