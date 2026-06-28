@@ -2,3 +2,4 @@
 .hetushu.com
 .dyttzyapi.com
 .ffzyapi.com
+.kxyytv.com
