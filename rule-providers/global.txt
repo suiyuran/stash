@@ -3,3 +3,4 @@
 .dyttzyapi.com
 .ffzyapi.com
 .kxyytv.com
+.deno.net
