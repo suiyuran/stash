@@ -2,5 +2,6 @@
 .hetushu.com
 .dyttzyapi.com
 .ffzyapi.com
+.tzfile.com
 .kxyytv.com
 .deno.net
