@@ -5,3 +5,4 @@
 .tzfile.com
 .kxyytv.com
 .deno.net
+.shudugu.org
